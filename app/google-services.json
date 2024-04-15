@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289309240984",
+    "project_id": "diet-record-app",
+    "storage_bucket": "diet-record-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289309240984:android:17ebf792836cc18fdeeaed",
+        "android_client_info": {
+          "package_name": "com.joon.diet_record_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKG1R6yj67cwoGRoAruHWA36gFPjJ7UWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
