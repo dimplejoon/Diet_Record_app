@@ -6,6 +6,7 @@
     android:orientation="vertical">
 
     <EditText
+        android:id="@+id/enterMemo"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:layout_margin="20dp"
@@ -22,6 +23,16 @@
     <Button
         android:id="@+id/dateSelectBtn"
         android:text="Select a date"
+        android:layout_margin="20dp"
         android:layout_width="match_parent"
-        android:layout_height="40dp"/>
+        android:layout_height="60dp"/>
+
+    <Button
+        android:id="@+id/saveBtn"
+        android:text="Save"
+        android:textColor="@color/Yellow"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
 </LinearLayout>
